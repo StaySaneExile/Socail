@@ -1,15 +1,14 @@
 import React, {Profiler} from 'react';
 import logo from './logo.svg';
 import './App.css';
-import Header from "./Header"
-import Nav from "./Nav"
-import Profile from "./Profile"
+import Header from "./head/Header"
+import Nav from "./Nav/Nav"
+import Profile from "./Profile/Profile"
 
 
 const App = () => {
     return (
-        < div
-    className = "wrapper" >
+        <div className = "wrapper" >
         <Header />
         <Nav/>
         <Profile/>
