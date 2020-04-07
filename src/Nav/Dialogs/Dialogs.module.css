@@ -1,0 +1,32 @@
+.wrapperContent {
+    background-color: dimgray;
+
+}
+
+.dialogs {
+    display: grid;
+    grid-template-columns: 2fr 10fr;
+
+}
+
+.dialogsItems {
+    padding: 5px;
+
+}
+.dialogsItems .active {
+  color: darkviolet;
+}
+
+.dialog {
+    padding: 5px;
+}
+
+.messages {
+    padding: 5px;
+
+}
+
+.message {
+    padding: 5px;
+
+}

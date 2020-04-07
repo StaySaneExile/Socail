@@ -8,10 +8,16 @@ color: white;
 }
 
 .posts {
-  color: darkgreen;
+  color: bisque;
+  padding: 10px ;
+  margin-top: 10px;
 }
 
 .image img {
   width: 500px;
 
+}
+
+.myPost {
+  padding: 10px;
 }
