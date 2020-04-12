@@ -6,7 +6,7 @@ const Header = () => {
     return (
             < header
                 className = {classes.header} >
-                < img src = "https://png.pngtree.com/template/20190809/ourlarge/pngtree-golden-building-real-estate-logo-icon-concept-template-on-dark-background-image_290695.jpg" />
+                < img src = "https://cdnb.artstation.com/p/assets/images/images/021/280/227/large/wladimir-kovalenko-screenshot000.jpg?1571080099" />
             </header>
     );
 }

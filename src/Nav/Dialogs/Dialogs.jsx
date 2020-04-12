@@ -3,7 +3,6 @@ import s from "./Dialogs.module.css";
 import {NavLink} from "react-router-dom";
 
 
-
 const DialogItem = (props) => {
     let path = "/dialogs/" + props.id;
     return (
@@ -20,23 +19,32 @@ const Message = (props) => {
 }
 
 const Dialogs = (props) => {
+
+    let dialogs = [
+        {name: 'Polina', id: 1},
+        {name: 'Oksana', id: 2},
+        {name: 'Misha', id: 3},
+        {name: 'Fedya', id: 4}
+    ];
+    let messages = [
+        {message: 'Hi'},
+        {message: 'How r u?'},
+        {message: 'Ayayay'},
+        {message: 'Yoyoyo'}
+    ]
+    let dialogItem = dialogs.map(dialog => (<DialogItem name={dialog.name} id={dialog.id}/>));
+    let messageItem = messages.map(message => (<Message message={message.message}/>));
+
     return (
         <div className={s.dialogs}>
             <div className={s.dialogsItems}>
-
-                <DialogItem name="Polina" id="1"/>
-                <DialogItem name="Oksana" id="2"/>
-                <DialogItem name="Misha" id="3"/>
-                <DialogItem name="Fedya" id="4"/>
-
+                {dialogItem}
             </div>
             <div className={s.messages}>
-                <Message message="Hi" />
-                <Message message="How r u?" />
-                <Message message="Ayayaya" />
+                {messageItem}
             </div>
         </div>
     );
-           }
+}
 
-  export default Dialogs;
+export default Dialogs;

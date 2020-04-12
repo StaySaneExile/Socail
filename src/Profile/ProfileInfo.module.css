@@ -1,3 +1,11 @@
 .descriptionBlock {
     padding: 10px;
 }
+
+.profile {
+    background-color: darkslategray;
+}
+
+.profile img {
+    width: 500px;
+}

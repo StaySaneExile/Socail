@@ -1,9 +1,11 @@
 .wrapperContent {
-    background-color: dimgray;
+
 
 }
 
 .dialogs {
+    height: 100vh;
+    background-color: burlywood;
     display: grid;
     grid-template-columns: 2fr 10fr;
 

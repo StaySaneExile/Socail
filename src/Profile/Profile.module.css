@@ -1,6 +1,6 @@
 .content {
   grid-area: c;
-  background-color: darkorange;
+  background-color: darkcyan;
 }
 
 .item {
@@ -12,6 +12,6 @@ color: black;
 }
 
 .image img {
-  width: 500px;
+  width: 200px;
 
 }
