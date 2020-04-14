@@ -1,33 +1,20 @@
 import React from "react";
 import classes from "./Nav.module.css"
-import {NavLink} from "react-router-dom";
+import NavItem from "./NavItem";
+import Friends from "./Friends/Friends";
 
-const NavItem = (props) => {
+
+const Nav = (props) => {
+    let navItem = props.navData.map ( n => (<NavItem p={n.p}
+                                                     class={n.class}
+                                                     text={n.text} />) );
     return (
-        <div className={classes.item}>
-            <NavLink to={props.p} activeClassName={props.class}>
-                {props.text}
-            </NavLink>
-        </div>
-    )
-};
-
-let NavData = [
-    {p: '/profile', class: 'classes.active', text: 'Profile'},
-    {p: '/dialogs', class: 'classes.active', text: 'Messages'},
-    {p: '/news', class: 'classes.active', text: 'News'},
-    {p: '/music', class: 'classes.active', text: 'Music'},
-    {p: '/settings', class: 'classes.active', text: 'Settings'}
-]
-let navItem = NavData.map ( n => (<NavItem p={n.p} class={n.class} text={n.text} />) );
-
-
-
-const Nav = () => {
-    return (
-        <nav className={classes.nav}>
+        <div>
+            <nav className={classes.nav}>
             {navItem}
-        </nav>
+            </nav>
+            <Friends className={classes.friends} friend={props.friends} image={props.image} />
+        </div>
     )
 }
 

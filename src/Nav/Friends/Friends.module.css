@@ -1,0 +1,15 @@
+.main {
+    word-spacing: inherit;
+    background-color: brown;
+
+}
+
+.zag {
+    padding: 10px;
+    font-family: "Bell MT";
+    position: relative;
+    left: 40px;
+    bottom: 10px;
+
+
+}
