@@ -9,7 +9,7 @@ const Friends = (props) => {
 
     return (
         <div className={classes.main}>
-            <h2 className={classes.zag}>Friends</h2>
+            <h2 className={classes.h}>Friends</h2>
             {friends}
         </div>
     )

@@ -2,19 +2,36 @@ import React from "react";
 import classes from "./Nav.module.css"
 import NavItem from "./NavItem";
 import Friends from "./Friends/Friends";
+import {NavLink} from "react-router-dom";
 
 
 const Nav = (props) => {
-    let navItem = props.navData.map ( n => (<NavItem p={n.p}
-                                                     class={n.class}
-                                                     text={n.text} />) );
+
     return (
-        <div>
+
             <nav className={classes.nav}>
-            {navItem}
+                <div className={classes.item}>
+                    <div>
+                        <NavLink to='/profile' activeClassName={classes.active}>profile</NavLink>
+                    </div>
+                    <div>
+                        <NavLink to='/dialogs' activeClassName={classes.active}>dialogs</NavLink>
+                    </div>
+                    <div>
+                        <NavLink to='/users' activeClassName={classes.active}>users</NavLink>
+                    </div>
+                    <div>
+                        <NavLink to='/news' activeClassName={classes.active}>news</NavLink>
+                    </div>
+                    <div>
+                        <NavLink to='/music' activeClassName={classes.active}>music</NavLink>
+                    </div>
+                    <div>
+                        <NavLink to='/settings' activeClassName={classes.active}>settings</NavLink>
+                    </div>
+                </div>
             </nav>
-            <Friends className={classes.friends} friend={props.friends} image={props.image} />
-        </div>
+
     )
 }
 

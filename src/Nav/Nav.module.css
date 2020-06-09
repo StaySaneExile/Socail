@@ -1,8 +1,9 @@
 .nav {
   grid-area: n;
-  background-color: dimgray;
+  background-color: #292e3f;
   padding: 20px;
   height: 50vh;
+  border-radius: 15px;
 }
 
 .item a {
@@ -15,8 +16,8 @@
 }
 
 .item {
-  padding: 10px;
+  color: burlywood;
   padding-left: 35px;
-  font-size: inherit;
-  font-family: "Book Antiqua";
+  font-family: "Bell MT";
+
 }

@@ -1,15 +1,13 @@
 .main {
     word-spacing: inherit;
-    background-color: brown;
-
+    background-color: #292e3f;
+    border-radius: 15px;
 }
 
-.zag {
+.h {
     padding: 10px;
     font-family: "Bell MT";
     position: relative;
     left: 40px;
     bottom: 10px;
-
-
 }
