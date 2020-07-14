@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Socail/static/css/main.29a3b4ec.chunk.css",
+    "main.js": "/Socail/static/js/main.cc4a0b64.chunk.js",
+    "main.js.map": "/Socail/static/js/main.cc4a0b64.chunk.js.map",
+    "runtime-main.js": "/Socail/static/js/runtime-main.9ec791ce.js",
+    "runtime-main.js.map": "/Socail/static/js/runtime-main.9ec791ce.js.map",
+    "static/js/2.9ebc4ae9.chunk.js": "/Socail/static/js/2.9ebc4ae9.chunk.js",
+    "static/js/2.9ebc4ae9.chunk.js.map": "/Socail/static/js/2.9ebc4ae9.chunk.js.map",
+    "index.html": "/Socail/index.html",
+    "precache-manifest.e47be8a00e14180259c62871e1c82d48.js": "/Socail/precache-manifest.e47be8a00e14180259c62871e1c82d48.js",
+    "service-worker.js": "/Socail/service-worker.js",
+    "static/css/main.29a3b4ec.chunk.css.map": "/Socail/static/css/main.29a3b4ec.chunk.css.map",
+    "static/js/2.9ebc4ae9.chunk.js.LICENSE.txt": "/Socail/static/js/2.9ebc4ae9.chunk.js.LICENSE.txt",
+    "static/media/preloader.gif": "/Socail/static/media/preloader.a4450bda.gif",
+    "static/media/user.png": "/Socail/static/media/user.d38be7c1.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9ec791ce.js",
+    "static/js/2.9ebc4ae9.chunk.js",
+    "static/css/main.29a3b4ec.chunk.css",
+    "static/js/main.cc4a0b64.chunk.js"
+  ]
+}
