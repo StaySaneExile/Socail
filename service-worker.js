@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Socail/precache-manifest.e47be8a00e14180259c62871e1c82d48.js"
+  "/Socail/precache-manifest.5b36241229c189fb902ea511e4de298b.js"
 );
 
 self.addEventListener('message', (event) => {
