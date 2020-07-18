@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3752d0f285933d5ff5edc5e0182c8757",
+    "revision": "59ab3575fadf46cf1b2a93083757c250",
     "url": "/Socail/index.html"
   },
   {
-    "revision": "e39a05f899bf184cfeb7",
+    "revision": "5a32e984c95130380d34",
     "url": "/Socail/static/css/main.29a3b4ec.chunk.css"
   },
   {
-    "revision": "96d2a1fba0755b8e982b",
-    "url": "/Socail/static/js/2.5d9ec94f.chunk.js"
+    "revision": "d708931aeacc8d48a4a2",
+    "url": "/Socail/static/js/2.e49180c3.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/Socail/static/js/2.5d9ec94f.chunk.js.LICENSE.txt"
+    "url": "/Socail/static/js/2.e49180c3.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e39a05f899bf184cfeb7",
-    "url": "/Socail/static/js/main.bc627421.chunk.js"
+    "revision": "5a32e984c95130380d34",
+    "url": "/Socail/static/js/main.143dbac8.chunk.js"
   },
   {
     "revision": "4305e7cb98d39718bcc8",

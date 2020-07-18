@@ -1,24 +1,24 @@
 {
   "files": {
     "main.css": "/Socail/static/css/main.29a3b4ec.chunk.css",
-    "main.js": "/Socail/static/js/main.bc627421.chunk.js",
-    "main.js.map": "/Socail/static/js/main.bc627421.chunk.js.map",
+    "main.js": "/Socail/static/js/main.143dbac8.chunk.js",
+    "main.js.map": "/Socail/static/js/main.143dbac8.chunk.js.map",
     "runtime-main.js": "/Socail/static/js/runtime-main.0c065569.js",
     "runtime-main.js.map": "/Socail/static/js/runtime-main.0c065569.js.map",
-    "static/js/2.5d9ec94f.chunk.js": "/Socail/static/js/2.5d9ec94f.chunk.js",
-    "static/js/2.5d9ec94f.chunk.js.map": "/Socail/static/js/2.5d9ec94f.chunk.js.map",
+    "static/js/2.e49180c3.chunk.js": "/Socail/static/js/2.e49180c3.chunk.js",
+    "static/js/2.e49180c3.chunk.js.map": "/Socail/static/js/2.e49180c3.chunk.js.map",
     "index.html": "/Socail/index.html",
-    "precache-manifest.54fdcd9768566da4f266ffa4a076d6cd.js": "/Socail/precache-manifest.54fdcd9768566da4f266ffa4a076d6cd.js",
+    "precache-manifest.8af293fe9019cc721cc010778a490a0e.js": "/Socail/precache-manifest.8af293fe9019cc721cc010778a490a0e.js",
     "service-worker.js": "/Socail/service-worker.js",
     "static/css/main.29a3b4ec.chunk.css.map": "/Socail/static/css/main.29a3b4ec.chunk.css.map",
-    "static/js/2.5d9ec94f.chunk.js.LICENSE.txt": "/Socail/static/js/2.5d9ec94f.chunk.js.LICENSE.txt",
+    "static/js/2.e49180c3.chunk.js.LICENSE.txt": "/Socail/static/js/2.e49180c3.chunk.js.LICENSE.txt",
     "static/media/preloader.gif": "/Socail/static/media/preloader.a4450bda.gif",
     "static/media/user.png": "/Socail/static/media/user.d38be7c1.png"
   },
   "entrypoints": [
     "static/js/runtime-main.0c065569.js",
-    "static/js/2.5d9ec94f.chunk.js",
+    "static/js/2.e49180c3.chunk.js",
     "static/css/main.29a3b4ec.chunk.css",
-    "static/js/main.bc627421.chunk.js"
+    "static/js/main.143dbac8.chunk.js"
   ]
 }
