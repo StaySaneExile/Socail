@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4ded0d7002dc49e4305667a67d4e4076",
+    "revision": "3752d0f285933d5ff5edc5e0182c8757",
     "url": "/Socail/index.html"
   },
   {
-    "revision": "42477e74d418743ceee4",
+    "revision": "e39a05f899bf184cfeb7",
     "url": "/Socail/static/css/main.29a3b4ec.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Socail/static/js/2.5d9ec94f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "42477e74d418743ceee4",
-    "url": "/Socail/static/js/main.0b3decdb.chunk.js"
+    "revision": "e39a05f899bf184cfeb7",
+    "url": "/Socail/static/js/main.bc627421.chunk.js"
   },
   {
     "revision": "4305e7cb98d39718bcc8",

@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Socail/static/css/main.29a3b4ec.chunk.css",
-    "main.js": "/Socail/static/js/main.0b3decdb.chunk.js",
-    "main.js.map": "/Socail/static/js/main.0b3decdb.chunk.js.map",
+    "main.js": "/Socail/static/js/main.bc627421.chunk.js",
+    "main.js.map": "/Socail/static/js/main.bc627421.chunk.js.map",
     "runtime-main.js": "/Socail/static/js/runtime-main.0c065569.js",
     "runtime-main.js.map": "/Socail/static/js/runtime-main.0c065569.js.map",
     "static/js/2.5d9ec94f.chunk.js": "/Socail/static/js/2.5d9ec94f.chunk.js",
     "static/js/2.5d9ec94f.chunk.js.map": "/Socail/static/js/2.5d9ec94f.chunk.js.map",
     "index.html": "/Socail/index.html",
-    "precache-manifest.5b36241229c189fb902ea511e4de298b.js": "/Socail/precache-manifest.5b36241229c189fb902ea511e4de298b.js",
+    "precache-manifest.54fdcd9768566da4f266ffa4a076d6cd.js": "/Socail/precache-manifest.54fdcd9768566da4f266ffa4a076d6cd.js",
     "service-worker.js": "/Socail/service-worker.js",
     "static/css/main.29a3b4ec.chunk.css.map": "/Socail/static/css/main.29a3b4ec.chunk.css.map",
     "static/js/2.5d9ec94f.chunk.js.LICENSE.txt": "/Socail/static/js/2.5d9ec94f.chunk.js.LICENSE.txt",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.0c065569.js",
     "static/js/2.5d9ec94f.chunk.js",
     "static/css/main.29a3b4ec.chunk.css",
-    "static/js/main.0b3decdb.chunk.js"
+    "static/js/main.bc627421.chunk.js"
   ]
 }
